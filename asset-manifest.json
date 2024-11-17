@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0c05c1f6.css",
+    "main.js": "./static/js/main.91cbf8d2.js",
+    "static/media/techsystems-logo.jpg": "./static/media/techsystems-logo.58a67d741e54dc057b98.jpg",
+    "static/media/techsystems-img.png": "./static/media/techsystems-img.f875b2e7b45ec2cdaafe.png",
+    "index.html": "./index.html",
+    "main.0c05c1f6.css.map": "./static/css/main.0c05c1f6.css.map",
+    "main.91cbf8d2.js.map": "./static/js/main.91cbf8d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c05c1f6.css",
+    "static/js/main.91cbf8d2.js"
+  ]
+}
